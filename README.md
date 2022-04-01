@@ -1,9 +1,9 @@
 # LunaSats-UCB-Team
 
 <div align="center">
-  <a href="#Section 1"><b>Description</b></a> |
-  <a href="#Section 2"><b>Features</b></a> |
-  <a href="#Section 3"><b>Requirements</b></a> |
+  <a href="#Section 1"><b>Section 1</b></a> |
+  <a href="#Section 2"><b>Section 2</b></a> |
+  <a href="#Section 3"><b>Section 3</b></a> |
 
 </div>
 
