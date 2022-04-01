@@ -19,6 +19,9 @@ Our team is passionate about aerospace engineering research, and our goal is to 
   <img src="equations.png" width="61%">
 </div>
 
+<div align="center">
+  <img src="landing.gif" width="61%">
+</div>
 ## Section 2
 
 ## Section 3
