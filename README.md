@@ -14,8 +14,8 @@ Our team is passionate about aerospace engineering research, and our goal is to 
 
 </div>
 
-## Section 1
-
+## Rocket landing via Sequential Convex Programming
+![image](https://user-images.githubusercontent.com/63219646/161196422-f8b4dfa0-2e26-4ea6-bf5f-9d2e988a56b2.png)
 
 ## Section 2
 
