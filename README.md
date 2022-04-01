@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header_sce.png" width="70%">
+</div>
+
 # LunaSats-UCB-Team
 
 <div align="center">
