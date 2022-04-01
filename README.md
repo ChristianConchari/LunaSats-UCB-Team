@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header_sce.png" width="70%">
+  <img src="header_sce.png" width="100%">
 </div>
 
 # LunaSats-UCB-Team
