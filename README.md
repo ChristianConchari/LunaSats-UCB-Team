@@ -43,6 +43,6 @@ In order to evaluate the performance of the Rocket landing and rover, certain va
 
 
 <p float="center">
-  <img src="render.jpg" width="38%">
+  <img src="final_final.JPG" width="38%">
   <img src="DSC_6477.JPG" width="40%"> 
 </p>
