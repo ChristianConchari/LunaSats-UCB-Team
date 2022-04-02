@@ -8,13 +8,15 @@ Our team is passionate about aerospace engineering research, and our goal is to 
 
 
 <div align="center">
-  <a href="#Section 1"><b>Section 1</b></a> |
-  <a href="#Section 2"><b>Section 2</b></a> |
-  <a href="#Section 3"><b>Section 3</b></a> |
+  <a href="#Section 1"><b>Rocket landing via Sequential Convex Programming</b></a> |
+  <a href="#Section 2"><b>Section 3</b></a> |
 
 </div>
 
 ## Rocket landing via Sequential Convex Programming
+
+Rocket landing is one of the most exiting and challenging topics in spacecraft aerodynamics, specially if you are an enthusiastic student. Imagine, if this is a complex task in earth, the level increases even more outside it. Ones of the most important variables needed to be taken into consideration when talking about rocket landing are those related to aerodynamics forces. We can make a mention on lift and thrust, variables that could be easily calculated in earth, but what about the moon, or other locations outside the earth? In order to achieve good control over those variables, in places outside the earth, we need to know about the atmospheric drag and disturbance torques of the place where we want to land the rocket; where we can make a remark of magnetic torque or solar pressure force, among others.
+
 <div align="center">
   <img src="equations.png" width="61%">
 </div>
@@ -26,9 +28,8 @@ Our team is passionate about aerospace engineering research, and our goal is to 
 <div align="center">
   <img src="landing.gif" width="61%">
 </div>
-## Section 2
 
-## Section 3
+## Section 2
 In order to evaluate the performance of the Rocket landing and rover, certain variables need to be measured and correspond to Lunasat sensors’ that include:
 - Temperature sensor: The temperature is the most important variable to measure because of its influence in the atmospheric drag disturbance, since temperature is directly relationated with density and so with this disturbance. Furthermore, the temperature can be interpreted as a danger parameter since all embedded components in telemetry systems work optimally in a specific range of temperatures. Also, it is a critical factor in the entire structure of the rover because the temperature coefficient of materials can determine how all parts of the vehicle will dilate or contract.
 - Accelerometer: Acceleration is useful for determining the velocity of the spacecraft since it is an important variable to control it. And also for the rover because we are able to compute the travel time and the force that is required to overcome obstacles with slope.
