@@ -4,12 +4,14 @@
 
 # LunaSats-UCB-Team
 
-Our team is passionate about aerospace engineering research, and our goal is to strengthen our scientific research skills and thus, in the near future, seek to empower the next phase of space exploration of our country, Bolivia. We believe that promoting space science and technology to the Bolivian community is essential to achieve our goal. In order to achieve that, we want to show the younger students that they themselves can aspire to develop technology that will take us as far as space.
+Our team is passionate about aerospace engineering research, and our goal is to strengthen our scientific research skills and thus, in the near future, seek to empower the next phase of space exploration of our country, Bolivia. The team believe that promoting space science and technology to the Bolivian community is essential to achieve our goal. In order to achieve that, we want to show the younger students that they themselves can aspire to develop technology that will take us as far as space.
 
 
 ## Rocket landing via Sequential Convex Programming
 
 Rocket landing is one of the most exiting and challenging topics in spacecraft aerodynamics, specially if you are an enthusiastic student. Imagine, if this is a complex task in earth, the level increases even more outside it. In order to achieve a safe landing, we need to take in consideration the terminal position, velocity, and attitude constrains. And, when talking about attitude, we need to make a mention of atmospheric drag and disturbance torques, like magnetic torque or solar pressure force, among others. The previously mentioned variables can be estimated with considerable precision for the earth atmosphere, but what happens if we want to land our rocket in the exterior space? For example, in the moon or Mars.
+
+Computing guidance onboard the spacecraft is a proper strategy in order to accomplish the required constrains, and successfully land the rocket.  But, is commonly known, as the mission complexity increases, most guidance problems are required to achieve the optimal solution. The application of numerical optimization methods is attracting researchers attention, and the convex optimization is one of those attractive methods that can theoretically guarantee the convergence and efficiency for aerospace operations.
 
 <div align="center">
   <img src="equations.png" width="61%">
