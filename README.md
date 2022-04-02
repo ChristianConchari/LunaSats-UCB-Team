@@ -30,7 +30,8 @@ Model Predictive Control could be considered for rocket landing due to its uniqu
 As most of the research teams cannot afford to land real rockets to test their models and assumptions, we must opt to perform simulations, like the one which can be visualized above. But, although these simulations can show an approximate behavior to the real one of the landing process, disturbance variables of the landing location, like the moon or Mars, are required to obtain a robust control system simulation. In the case of the above visualized simulation, those parameters can be incorporated to obtain better and more robust results.
 
 
-## Section 2
+## Rover exploration
+
 In order to evaluate the performance of the Rocket landing and rover, certain variables need to be measured and correspond to Lunasat sensors’ that include:
 - Temperature sensor: The temperature is the most important variable to measure because of its influence in the atmospheric drag disturbance, since temperature is directly relationated with density and so with this disturbance. Furthermore, the temperature can be interpreted as a danger parameter since all embedded components in telemetry systems work optimally in a specific range of temperatures. Also, it is a critical factor in the entire structure of the rover because the temperature coefficient of materials can determine how all parts of the vehicle will dilate or contract.
 - Accelerometer: Acceleration is useful for determining the velocity of the spacecraft since it is an important variable to control it. And also for the rover because we are able to compute the travel time and the force that is required to overcome obstacles with slope.
