@@ -7,15 +7,9 @@
 Our team is passionate about aerospace engineering research, and our goal is to strengthen our scientific research skills and thus, in the near future, seek to empower the next phase of space exploration of our country, Bolivia. We believe that promoting space science and technology to the Bolivian community is essential to achieve our goal. In order to achieve that, we want to show the younger students that they themselves can aspire to develop technology that will take us as far as space.
 
 
-<div align="center">
-  <a href="#Section 1"><b>Rocket landing via Sequential Convex Programming</b></a> |
-  <a href="#Section 2"><b>Section 3</b></a> |
-
-</div>
-
 ## Rocket landing via Sequential Convex Programming
 
-Rocket landing is one of the most exiting and challenging topics in spacecraft aerodynamics, specially if you are an enthusiastic student. Imagine, if this is a complex task in earth, the level increases even more outside it. Ones of the most important variables needed to be taken into consideration when talking about rocket landing are those related to aerodynamics forces. We can make a mention on lift and thrust, variables that could be easily calculated in earth, but what about the moon, or other locations outside the earth? In order to achieve good control over those variables, in places outside the earth, we need to know about the atmospheric drag and disturbance torques of the place where we want to land the rocket; where we can make a remark of magnetic torque or solar pressure force, among others.
+Rocket landing is one of the most exiting and challenging topics in spacecraft aerodynamics, specially if you are an enthusiastic student. Imagine, if this is a complex task in earth, the level increases even more outside it. In order to achieve a safe landing, we need to take in consideration the terminal position, velocity, and attitude constrains. And, when talking about attitude, we need to make a mention of atmospheric drag and disturbance torques, like magnetic torque or solar pressure force, among others. The previously mentioned variables can be estimated with considerable precision for the earth atmosphere, but what happens if we want to land our rocket in the exterior space? For example, in the moon or Mars.
 
 <div align="center">
   <img src="equations.png" width="61%">
