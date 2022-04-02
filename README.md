@@ -17,6 +17,8 @@ Computing guidance onboard the spacecraft is a proper strategy in order to accom
   <img src="equations.png" width="61%">
 </div>
 
+Model Predictive Control could be considered for rocket landing due to its unique capability with respect to constrains satisfaction, optimized performance and adaptability for model uncertainty. Also, we can mention its advantages of handling constraints and optimization performance simultaneously via repeatedly solving an optimal control problem.
+
 <div align="center">
   <img src="landing_python.png" width="61%">
 </div>
@@ -24,6 +26,9 @@ Computing guidance onboard the spacecraft is a proper strategy in order to accom
 <div align="center">
   <img src="landing.gif" width="61%">
 </div>
+
+As most of the research teams cannot afford to land real rockets to test their models and assumptions, we must opt to perform simulations, like the one which can be visualized above. But, although these simulations can show an approximate behavior to the real one of the landing process, disturbance variables of the landing location, like the moon or Mars, are required to obtain a robust control system simulation. In the case of the above visualized simulation, those parameters can be incorporated to obtain better and more robust results.
+
 
 ## Section 2
 In order to evaluate the performance of the Rocket landing and rover, certain variables need to be measured and correspond to Lunasat sensors’ that include:
