@@ -38,13 +38,13 @@ In order to evaluate the performance of the Rocket landing and rover, certain va
 - Magnetometer: The magnetic field can conditionate the control performance of the spacecraft since one of the most influential disturbances is the magnetic disturbance due to the interaction of the Moon’s magnetic field and the magnetic dipole of the spacecraft. By measuring the magnetic field we can determine the maximum perturbation from the external magnetic field,and so estimate and simulate the spacecraft  performance. Additionally, this variable can affect the telemetry system of the vehicle since the magnetic field is useful for orientation approaches.
 - Thermopile: Due to the limited battery available, this component can wake-up battery only when something is detected. For example, if there were a kind of obstacle near, a braking system can be activated saving an important amount of energy. The detection of nearby obstacles is an important issue, since the rover structure is made of metals such as steel and aluminum, and if the vehicle collides, a phenomenon called cold welding can occur.Where, due to the absence of oxygen, pieces of metal can fuse, without the need for a conventional welding technique. Even tought the Von Misses stress analysis shows a clear resistance (for example in wheels), the impact can cause pieces of metal to come together and fuse.
 <div align="center">
-  <img src="wheel.png" width="40%">
+  <img src="wheel.png" width="50%">
 </div>
 
 
 <div align="center">
-  <img src="final_final.JPG" width="40%">
+  <img src="final_final.JPG" width="70%">
 </div>
 <div align="center">
-  <img src="DSC_6477.JPG" width="40%"> 
+  <img src="DSC_6477.JPG" width="70%"> 
 </div>
