@@ -24,7 +24,7 @@ Model Predictive Control could be considered for rocket landing due to its uniqu
 </div>
 
 <div align="center">
-  <img src="landing.gif" width="61%">
+  <img src="video_landing.gif" width="61%">
 </div>
 
 As most of the research teams cannot afford to land real rockets to test their models and assumptions, we must opt to perform simulations, like the one which can be visualized above. But, although these simulations can show an approximate behavior to the real one of the landing process, disturbance variables of the landing location, like the moon or Mars, are required to obtain a robust control system simulation. In the case of the above visualized simulation, those parameters can be incorporated to obtain better and more robust results.
