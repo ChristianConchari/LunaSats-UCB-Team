@@ -44,5 +44,7 @@ In order to evaluate the performance of the Rocket landing and rover, certain va
 
 <div align="center">
   <img src="final_final.JPG" width="40%">
+</div>
+<div align="center">
   <img src="DSC_6477.JPG" width="40%"> 
 </div>
